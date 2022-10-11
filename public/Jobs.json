@@ -1,0 +1,26 @@
+[
+{
+"img": "https://www.intel.com/etc.clientlibs/settings/wcm/designs/intel/us/en/images/resources/printlogo.png",
+"position":"Web Developer",
+"company": "Web Technology ltd",
+"jobType":"Full-time"
+},
+{
+"img": "https://cdn.mos.cms.futurecdn.net/qMdb2Y6xVT9PoKEvvPzNxd.jpg",
+"position":"Frontend Developer",
+"company": "Web Technology ltd",
+"jobType":"Part-time"
+},
+{
+"img": "https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw",
+"position":"React Developer",
+"company": "Web Technology ltd",
+"jobType":"Contract"
+},
+{
+"img": "https://spacenews.com/wp-content/uploads/2014/11/SpaceXLogo_SpaceX4X3-879x485.jpg",
+"position":"Mern-stack Developer",
+"company": "Web Technology ltd",
+"jobType":"Remotely"
+}
+]
