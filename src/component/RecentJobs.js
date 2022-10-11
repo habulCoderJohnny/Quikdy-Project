@@ -10,7 +10,7 @@ const RecentJobs = () => {
     },[]);
     
     return (
-        <div className='text-center'>
+        <div className='text-center mx-10'>
             <h1 className="text-4xl font-bold uppercase">New and Random job</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis fugiat aperiam architecto, corrupti quasi saepe aspernatur quae quibusdam inventore modi</p>
 

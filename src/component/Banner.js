@@ -1,5 +1,6 @@
 import React from 'react';
 import banner from '../assets/banner.png';
+import banner2 from '../assets/Rectangle.png';
 
 const Banner = () => {
     return (
@@ -11,6 +12,7 @@ const Banner = () => {
                     <h1 className="text-5xl font-black uppercase">best hired<br />
                         now with <br /> Quikdy</h1>
                     <p className="py-6">Provident cupiditate <br /> voluptatem et in. Quaerat fugiat ut assumenda .</p>
+             
 
                     {/* <form action="" className=''>
                         <label className="label p-1">
@@ -27,6 +29,7 @@ const Banner = () => {
                 </div>
 
             </div>
+            <img className='mt-80' src={banner2} />
         </div>
     );
 };

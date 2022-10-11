@@ -5,7 +5,7 @@ const Category = ({categoryJob}) => {
     return (
         <div className="card w-60 h-auto text-center shadow-xl my-10">
           <div className="card-body items-end">
-          <h2 className="card-title bg-primary uppercase text-white ">{jobType}</h2> 
+          <h2 className="card-title bg-primary rounded uppercase text-white p-1">{jobType}</h2> 
         </div>
         <figure className="px-10">
         
